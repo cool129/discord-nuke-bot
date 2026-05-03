@@ -7,7 +7,7 @@ import random
 import time
 
 # --- CONFIGURE THESE ---
-BOT_TOKEN = "MTUwMDU2NDAxNDY1NTA3ODQ3MA.Gqp3O3.jVlJ7hZXilk1yHZEvWRHEU5wh-8wgn4b60Vv0c"
+BOT_TOKEN = "add your discord bot token here!"
 PREFIX = "."
 
 # Nuke Configuration
