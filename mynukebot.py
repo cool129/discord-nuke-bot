@@ -1,4 +1,4 @@
-# dnezRaider - Custom nuke bot
+# geo2face - Custom nuke bot
 
 import asyncio
 import discord
